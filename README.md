@@ -1,5 +1,5 @@
 # HowToInvest
-
+财务管理是每位程序员的必修课，掌握了这一技能，将受益终身。许多人忽略了财务管理的重要性，结果即使收入不菲，依然捉襟见肘。
 本项目旨在为程序员提供全面的财务管理指南，涵盖财务管理、投资、创业及个人理财等多方面的内容。通过本指南，程序员可以更好地规划和管理自己的财务，实现财务自由。
 
 ## 目录
@@ -30,8 +30,8 @@
 以下是如何快速开始阅读的示例：
 
 1. **基础财务管理**:
-    - [财务预算](docs/basic_finance/budgeting.md)
-    - [财务报表](docs/basic_finance/financial_statements.md)
+    - [资产净值](docs/basic_finance/资产净值.md)
+    - [收入划分到不同的账户](docs/basic_finance/收入划分到不同的账户.md)
 
 2. **投资指南**:
     - [股票投资](docs/investment/stocks.md)
