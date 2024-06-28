@@ -1,1 +1,49 @@
 # HowToInvest
+
+本项目旨在为程序员提供全面的财务管理指南，涵盖财务管理、投资、创业及个人理财等多方面的内容。通过本指南，程序员可以更好地规划和管理自己的财务，实现财务自由。
+
+## 目录
+
+- [介绍](#介绍)
+- [特性](#特性)
+- [使用方法](#使用方法)
+
+## 介绍
+
+现代程序员往往专注于代码和技术，而忽视了财务管理的重要性。本指南为程序员提供了系统、实用的财务管理知识，帮助他们在兼顾工作的同时也能科学地规划和管理个人及家庭的财务。
+
+## 特性
+
+- **基础财务管理**：介绍基础的财务管理知识和工具。
+- **投资指南**：提供从初学者到高级投资者的投资策略和建议。
+- **创业指南**：帮助有创业梦想的程序员了解创业前的财务准备和管理。
+- **个人理财技巧**：分享日常开销、储蓄和理财的技巧和心得。
+
+
+## 使用方法
+
+该文档主要通过Markdown编写，建议使用以下工具进行浏览和编辑：
+
+- **Markdown编辑器**：如Typora、Visual Studio Code等
+- **Web浏览器**：通过GitHub Pages在线浏览
+
+以下是如何快速开始阅读的示例：
+
+1. **基础财务管理**:
+    - [财务预算](docs/basic_finance/budgeting.md)
+    - [财务报表](docs/basic_finance/financial_statements.md)
+
+2. **投资指南**:
+    - [股票投资](docs/investment/stocks.md)
+    - [基金投资](docs/investment/funds.md)
+
+3. **创业指南**:
+    - [创业融资](docs/entrepreneurship/funding.md)
+    - [创业财务规划](docs/entrepreneurship/planning.md)
+
+4. **个人理财**:
+    - [储蓄技巧](docs/personal/saving_tips.md)
+    - [消费管理](docs/personal/spending.md)
+
+
+
