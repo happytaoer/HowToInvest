@@ -34,6 +34,7 @@
     - [收入划分到不同的账户](docs/basic_finance/收入划分到不同的账户.md)
 
 2. **投资指南**:
+    - [借贷投资，半只脚已进入地狱！](docs/basic_finance/借贷投资，半只脚已进入地狱.md)
     - [股票投资](docs/investment/stocks.md)
     - [基金投资](docs/investment/funds.md)
 
